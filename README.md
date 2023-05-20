@@ -1,6 +1,6 @@
 # Sales-Insight
 
-### Data Analysis Using SQL
+# Data Analysis Using SQL
 
 # Show all customer records
 
